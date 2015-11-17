@@ -1,3 +1,3 @@
 # test-repository
 
-Un salume!
+il file LINTORO.txt esiste
